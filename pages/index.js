@@ -1,7 +1,8 @@
-const Home = props => (
-    <div>
-        <p>Hey!</p>
-    </div>
-)
 
-export default Home
+const Home = props => (
+  <div>
+
+  </div>
+);
+
+export default Home;

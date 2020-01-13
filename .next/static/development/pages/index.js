@@ -64,16 +64,10 @@ var Home = function Home(props) {
   return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 2
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
-    __source: {
-      fileName: _jsxFileName,
       lineNumber: 3
     },
     __self: this
-  }, "Hey!"));
+  });
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Home);
