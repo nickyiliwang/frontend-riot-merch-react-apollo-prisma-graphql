@@ -40,7 +40,7 @@ var Meta = function Meta() {
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("meta", {
-    "http-equiv": "X-UA-Compatible",
+    httpEquiv: "X-UA-Compatible",
     content: "ie=edge",
     __source: {
       fileName: _jsxFileName,
@@ -48,7 +48,7 @@ var Meta = function Meta() {
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("link", {
-    ref: "shortcut icon",
+    rel: "shortcut icon",
     href: "/static/favicon.png",
     __source: {
       fileName: _jsxFileName,
@@ -64,10 +64,17 @@ var Meta = function Meta() {
       lineNumber: 9
     },
     __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("title", {
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("link", {
+    rel: "",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 10
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("title", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 11
     },
     __self: this
   }, "Riot Merch"));
@@ -78,4 +85,4 @@ var Meta = function Meta() {
 /***/ })
 
 })
-//# sourceMappingURL=_app.js.c907872d424aa7b2c427.hot-update.js.map
+//# sourceMappingURL=_app.js.af8299793b0c181e1b38.hot-update.js.map
